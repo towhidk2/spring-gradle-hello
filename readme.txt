@@ -1,6 +1,6 @@
 # src/main/java/com/example/helloworld/HelloworldApplication.java
 
-./gradlew build
+./gradlew clean build
 ./gradlew bootRun
 
 
