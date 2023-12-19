@@ -1,3 +1,11 @@
+Project: Gradle Groovy
+Language: Java
+Springboot: 3.20
+Project Metadata: com.example.helloworld
+Packaging: War
+Java: 17
+
+
 # src/main/java/com/example/helloworld/HelloworldApplication.java
 
 ./gradlew clean build
