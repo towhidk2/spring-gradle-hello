@@ -20,7 +20,12 @@ public class HelloworldApplication {
 
     @GetMapping("/api")
     public String getApi() {
-        return "Hello, from API";
+        return "Hello, API";
+    }
+
+    @GetMapping("/user")
+    public String getUser() {
+        return "Hello, User";
     }
 
 }
